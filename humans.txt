@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+1st mod to humans.txt on 7cda
+
 # TEAM
 
     <name> -- <role> -- <twitter>
