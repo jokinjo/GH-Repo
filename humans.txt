@@ -5,7 +5,7 @@
 2nd mod to humans.txt on 9dc0
 3rd mod to humans.txt on 71ce
 1st mod to humans.txt on remote:master  off of b1cb
-
+Mod to remote humans.txt - to clash w/ local
 
 # TEAM
 
